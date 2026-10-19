@@ -312,11 +312,11 @@ a:visited {
     background: var(--purple);
 }
 
-.main__intro-download::hover {
+.main__intro-download:hover {
     background: var(--sky-blue);
 }
 
-.main__intro-about::hover, .footer__download::hover {
+.main__intro-about:hover, .footer__download:hover {
     background: var(--light-purple);
 }
 
