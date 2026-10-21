@@ -320,6 +320,14 @@ a:visited {
     background: var(--light-purple);
 }
 
+.main__intro-about:hover strong, .footer__download:hover strong {
+    color: var(--purple);
+}
+
+.main__intro-download:hover strong {
+    color: var(--light-blue);
+}
+
 @media screen and (min-width: 48rem) {
     .footer {
         background-image:
