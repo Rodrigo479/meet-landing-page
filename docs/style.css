@@ -342,9 +342,6 @@ text-shadow: 2px 0 var(--grey), -2px 0 var(--grey), 0 2px var(--grey), 0 -2px va
         background-image:
             linear-gradient(var(--transparent-light-blue), var(--transparent-light-blue)),
             url('assets/tablet/image-footer.jpg');
-        background-repeat: no-repeat;
-        background-position: center;
-        background-size: cover;
         padding-block-end: 3rem;
     }
 
@@ -540,9 +537,6 @@ text-shadow: 2px 0 var(--grey), -2px 0 var(--grey), 0 2px var(--grey), 0 -2px va
         background-image:
             linear-gradient(var(--transparent-light-blue), var(--transparent-light-blue)),
             url('assets/desktop/image-footer.jpg');
-        background-repeat: no-repeat;
-        background-position: center;
-        background-size: cover;
         padding-block-end: 3rem;
     }
 
