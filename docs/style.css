@@ -228,6 +228,7 @@ a:visited {
 }
 
 .main__first-features-gallery {
+    width: 100%;
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
@@ -237,8 +238,8 @@ a:visited {
 }
 
 .main__first-features-img {
-    width: 100%;
     flex: 0 1 9.219rem;
+    width: 9.219rem;
     /* 147.5 */
     border-radius: .5rem;
     /* 8 */
